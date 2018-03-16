@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <display-name></display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>mainActivityServlet</servlet-name>
+    <servlet-class>servlet.mainActivityServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>l_1shouyeServlet</servlet-name>
+    <servlet-class>servlet.l_1shouyeServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>l_3discovery_teacherServlet</servlet-name>
+    <servlet-class>servlet.l_3discovery_teacherServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>l_1shouyeAcitivityServlet</servlet-name>
+    <servlet-class>servlet.l_1shouyeAcitivityServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>x_6shouye1Servlet</servlet-name>
+    <servlet-class>servlet.x_6shouye1Servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>x_discoveryServlet</servlet-name>
+    <servlet-class>servlet.x_discoveryServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>l_8gerenziliaoServlet</servlet-name>
+    <servlet-class>servlet.l_8gerenziliaoServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>x_13gerenziliao1Servlet</servlet-name>
+    <servlet-class>servlet.x_13gerenziliao1Servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>messageServlet</servlet-name>
+    <servlet-class>servlet.messageServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>returnTeacherNameServlet</servlet-name>
+    <servlet-class>servlet.returnTeacherNameServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>l_5fabuxiangmuServlet</servlet-name>
+    <servlet-class>servlet.l_5fabuxiangmuServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>createMessageServlet</servlet-name>
+    <servlet-class>servlet.createMessageServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>l_12Servlet</servlet-name>
+    <servlet-class>servlet.l_12Servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>l_10Servlet</servlet-name>
+    <servlet-class>servlet.l_10Servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>l_xiugaixiangmuServlet</servlet-name>
+    <servlet-class>servlet.l_xiugaixiangmuServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>updateZiliaoServlet</servlet-name>
+    <servlet-class>servlet.updateZiliaoServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>jubaoServlet</servlet-name>
+    <servlet-class>servlet.jubaoServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>shanchuxiangmuServlet</servlet-name>
+    <servlet-class>servlet.shanchuxiangmuServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>x_11reviewServlet</servlet-name>
+    <servlet-class>servlet.x_11reviewServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>returnReviewServlet</servlet-name>
+    <servlet-class>servlet.returnReviewServlet</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>mainActivityServlet</servlet-name>
+    <url-pattern>/servlet/mainActivityServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>l_1shouyeServlet</servlet-name>
+    <url-pattern>/servlet/l_1shouyeServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>l_3discovery_teacherServlet</servlet-name>
+    <url-pattern>/servlet/l_3discovery_teacherServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>l_1shouyeAcitivityServlet</servlet-name>
+    <url-pattern>/servlet/l_1shouyeAcitivityServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>x_6shouye1Servlet</servlet-name>
+    <url-pattern>/servlet/x_6shouye1Servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>x_discoveryServlet</servlet-name>
+    <url-pattern>/servlet/x_discoveryServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>l_8gerenziliaoServlet</servlet-name>
+    <url-pattern>/servlet/l_8gerenziliaoServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>x_13gerenziliao1Servlet</servlet-name>
+    <url-pattern>/servlet/x_13gerenziliao1Servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>messageServlet</servlet-name>
+    <url-pattern>/servlet/messageServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>returnTeacherNameServlet</servlet-name>
+    <url-pattern>/servlet/returnTeacherNameServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>l_5fabuxiangmuServlet</servlet-name>
+    <url-pattern>/servlet/l_5fabuxiangmuServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>createMessageServlet</servlet-name>
+    <url-pattern>/servlet/createMessageServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>l_12Servlet</servlet-name>
+    <url-pattern>/servlet/l_12Servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>l_10Servlet</servlet-name>
+    <url-pattern>/servlet/l_10Servlet</url-pattern>
+  </servlet-mapping>
+   
+  <servlet-mapping>
+    <servlet-name>l_xiugaixiangmuServlet</servlet-name>
+    <url-pattern>/servlet/l_xiugaixiangmuServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>updateZiliaoServlet</servlet-name>
+    <url-pattern>/servlet/updateZiliaoServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>jubaoServlet</servlet-name>
+    <url-pattern>/servlet/jubaoServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>shanchuxiangmuServlet</servlet-name>
+    <url-pattern>/servlet/shanchuxiangmuServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>x_11reviewServlet</servlet-name>
+    <url-pattern>/servlet/x_11reviewServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>returnReviewServlet</servlet-name>
+    <url-pattern>/servlet/returnReviewServlet</url-pattern>
+  </servlet-mapping>
+  	
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+ </welcome-file-list>
+</web-app>

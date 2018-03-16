@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xmb"
+  id="myeclipse.1512806280549"
+  context-root="/xmb"
+  j2ee-spec="5.0"
+  archive="xmb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
